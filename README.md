@@ -5,7 +5,7 @@
 -   [Technologies used](#technologies-used)
 -   [Libraries](#libraries)
 -   [Screenshot](#screenshots)
--   [Awesome Lines ](#awesome-lines)
+-   [Awesome Lines](#awesome-lines)
 
 ## Technologies used
 
